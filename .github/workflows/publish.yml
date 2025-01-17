@@ -70,7 +70,7 @@ jobs:
         run: chmod +x gradlew
 
       - name: Build and publish
-        run: ./gradlew build publish -x test
+        run: ./gradlew build publish
         env:
           GITHUB_ACTOR: KimMunjin
           GITHUB_TOKEN: ${{ secrets.ORG_GITHUB_PAT }}
