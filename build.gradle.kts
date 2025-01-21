@@ -18,7 +18,7 @@ dependencies {
         api("kr.or.komca:komca-data-core:0.2.2")
         api("kr.or.komca:utils:0.3.2")
         api("kr.or.komca.foundation:verification:0.5.10")
-        api("kr.or.komca:common-logging:0.0.3")
+        api("kr.or.komca:common-logging:0.1.0")
         api("kr.or.komca:auth-core:0.0.5")
     }
 }
