@@ -20,7 +20,6 @@ dependencies {
         api("kr.or.komca:utils:0.3.2")
         api("kr.or.komca.foundation:verification:0.5.21")
         api("kr.or.komca:common-logging:0.1.1")
-
         api("kr.or.komca:exception:0.0.5")
     }
 }
