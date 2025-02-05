@@ -16,7 +16,7 @@ javaPlatform {
 dependencies {
     constraints {
 
-        api("kr.or.komca:komca-data-core:0.3.3")
+        api("kr.or.komca:komca-data-core:0.3.4")
         api("kr.or.komca:utils:0.3.2")
         api("kr.or.komca.foundation:verification:0.5.24")
         api("kr.or.komca:common-logging:0.1.3")
